@@ -53,5 +53,5 @@
   <a href="https://github.com/KromaRec/KromaRecClient">Client Repository</a> · 
   <a href="https://github.com/KromaRec/KromaNet">KromaRec's website</a> · 
   <a href="https://github.com/KromaRec/KromaNetBot">KromaNet Discord bot</a> · 
-  <a href="https://https://discord.gg/qwXY9QG6qm">Discord</a>
+  <a href="https://discord.gg/qwXY9QG6qm">Discord</a>
 </p>
